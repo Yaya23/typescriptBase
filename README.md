@@ -1,0 +1,2 @@
+# typescriptBase
+Basic typescript project
